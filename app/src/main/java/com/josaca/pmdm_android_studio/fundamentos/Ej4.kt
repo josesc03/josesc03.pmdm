@@ -1,7 +1,7 @@
 package com.josaca.pmdm_android_studio.fundamentos
 
 fun main() {
-    print("Prohrama para comparar números\n" +
+    print("Programa para comparar números\n" +
             "Escribe el primero número: ")
     var primero:Double = readln().toDouble()
     print("Escribe el segundo número: ")
