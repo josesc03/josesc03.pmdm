@@ -1,4 +1,4 @@
-package com.josaca.pmdm_android_studio.control_de_flujo
+package com.josaca.pmdm_android_studio.control_de_flujo.ifelse
 
 fun main() {
     var mayor: Int
